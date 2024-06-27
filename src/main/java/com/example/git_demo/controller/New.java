@@ -11,7 +11,7 @@ public class New
     @GetMapping
     public String getEmployee()
     {
-        return "employee details";
+        return "This is main";
     }
 
 }
